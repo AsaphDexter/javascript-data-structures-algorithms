@@ -1,0 +1,25 @@
+{
+  "name": "javascript-data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsaphDexter/javascript-data-structures-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsaphDexter/javascript-data-structures-algorithms/issues"
+  },
+  "homepage": "https://github.com/AsaphDexter/javascript-data-structures-algorithms#readme",
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  },
+  "type": "module"
+}
